@@ -55,7 +55,14 @@
 
 
 ###
-### ✍️ Random Dev Quote
+### 
+<div align="left">
+  
+✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
+<div align="right">
+  
 ![](https://nirzak-streak-stats.vercel.app/?user=Leo10401&theme=radical&hide_border=false)<br/>
+</div>
 ###
