@@ -10,9 +10,18 @@
 
 
 ###
-
-<img align="right" height="150" src="https://media.giphy.com/media/de5S6SQdUVvBvLjJ3x/giphy.gif?cid=ecf05e477pbtjwqvhg98f6xrkm01kq6ki85qwyhqb67lnl2m&ep=v1_stickers_search&rid=giphy.gif&ct=s"  />
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXg5NmU5ZG02NGtmajY3bzZiaGNuamw0a3IzN29sZDFyZjJsZTduMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QAsu4cugSWDOo7JI8Y/giphy.gif"  />
+<div className="relative h-[150px] w-full">
+      <img 
+        src="https://media.giphy.com/media/de5S6SQdUVvBvLjJ3x/giphy.gif" 
+        alt="Background GIF" 
+        className="absolute top-0 right-0 h-[150px] z-10 opacity-50"
+      />
+      <img 
+        src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXg5NmU5ZG02NGtmajY3bzZiaGNuamw0a3IzN29sZDFyZjJsZTduMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QAsu4cugSWDOo7JI8Y/giphy.gif" 
+        alt="Foreground GIF" 
+        className="absolute top-0 right-0 h-[150px] z-20"
+      />
+    </div>
 
 ###
 
