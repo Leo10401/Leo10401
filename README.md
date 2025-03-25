@@ -42,8 +42,16 @@
 
 ###
 
+
 <br clear="both">
 
-<img src="https://github.com/Leo10401/Leo10401/blob/main/packman.yml" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leo10401/Leo10401/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leo10401/Leo10401/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Leo10401/Leo10401/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 
 ###
