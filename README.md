@@ -55,6 +55,13 @@
 
 
 ###
+
+<div align="right">
+
+  ![](https://nirzak-streak-stats.vercel.app/?user=Leo10401&theme=radical&hide_border=false)<br/>
+</div>
+
+###
 ✍️ Random Dev Quote
 <div align="left">
   
@@ -62,10 +69,5 @@
 </div>
 
 
-
-<div align="right">
-
-  ![](https://nirzak-streak-stats.vercel.app/?user=Leo10401&theme=radical&hide_border=false)<br/>
-</div>
 
 ###
