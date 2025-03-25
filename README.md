@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Leo10401/Leo10401/pacman.yml" alt="Snake animation" />
+<img src="https://github.com/Leo10401/Leo10401/blob/main/packman.yml" alt="Snake animation" />
 
 ###
